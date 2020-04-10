@@ -1,7 +1,7 @@
 # envoy-apigateway
 envoy-apigateway deployment and configuration scripts
 
-# post api gateway deployment
+# Post API Gateway Deployment
 
 kubectl get svc -w  --namespace caliber ambassador
 
